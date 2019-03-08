@@ -42,7 +42,7 @@
     "@babel/core": "^7.3.4",
     "@storybook/addon-a11y": "3.4.11",
     "@storybook/addon-actions": "5.0.1",
-    "@storybook/addon-backgrounds": "3.4.11",
+    "@storybook/addon-backgrounds": "5.0.1",
     "@storybook/addon-info": "5.0.1",
     "@storybook/addon-knobs": "5.0.1",
     "@storybook/addon-options": "5.0.1",
