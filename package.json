@@ -51,7 +51,7 @@
     "@storybook/addon-storyshots": "5.0.6",
     "@storybook/addon-viewport": "3.4.11",
     "@storybook/addons": "5.0.6",
-    "@storybook/react": "3.4.11",
+    "@storybook/react": "5.0.6",
     "@zeit/next-bundle-analyzer": "^0.1.2",
     "@zeit/next-css": "^1.0.1",
     "autoprefixer": "^9.4.10",
