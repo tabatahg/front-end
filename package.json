@@ -52,7 +52,7 @@
     "@storybook/addon-options": "5.0.9",
     "@storybook/addon-storyshots": "5.0.9",
     "@storybook/addon-viewport": "5.0.9",
-    "@storybook/addons": "3.4.11",
+    "@storybook/addons": "5.0.9",
     "@storybook/react": "3.4.11",
     "@zeit/next-bundle-analyzer": "^0.1.2",
     "@zeit/next-css": "^1.0.1",
