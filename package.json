@@ -44,7 +44,7 @@
   "dependencies": {
     "@babel/core": "^7.4.3",
     "@storybook/addon-a11y": "5.0.10",
-    "@storybook/addon-actions": "3.4.11",
+    "@storybook/addon-actions": "5.0.10",
     "@storybook/addon-backgrounds": "3.4.11",
     "@storybook/addon-info": "3.4.11",
     "@storybook/addon-knobs": "3.4.11",
