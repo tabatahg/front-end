@@ -139,7 +139,7 @@
     "jest-enzyme": "7.0.2",
     "jest-prop-type-error": "^1.1.0",
     "lint-staged": "^8.1.7",
-    "prettier": "^1.17.1",
+    "prettier": "^1.18.2",
     "react-addons-test-utils": "^15.6.2",
     "react-test-renderer": "^16.8.6",
     "redux-mock-store": "^1.5.3",
